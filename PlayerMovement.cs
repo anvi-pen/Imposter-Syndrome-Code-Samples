@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 
 /*
-This script should be attached to the player object, as it controls the movement of
+This script should be attached to the Player game object, as it controls the movement of
 the player. Depending on the suspicion level of the player, the movement controls
 are changed by this script as follows:
 
