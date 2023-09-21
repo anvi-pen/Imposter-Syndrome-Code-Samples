@@ -5,7 +5,7 @@ using UnityEngine;
 /*
 This script manages the effect that occurs if the player walks into
 a water vapor game object, which would be to increase the player's
-suspicion level.
+suspicion level. This script is attached to the Player game object.
 */
 
 public class PlayerCollisionManager : MonoBehaviour
