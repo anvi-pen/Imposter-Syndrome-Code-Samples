@@ -3,7 +3,7 @@ Code samples written by me for Imposter Syndrome, a 3D 1st-person role-playing g
  \
 This game was developed using the Unity game engine.\
  \
-The repository hosting the entire project is currently privated.\
+The repository hosting the entire project is currently private.\
  \
 See the scripts in action in this [demo video](https://1drv.ms/v/s!AowguBSlb55mnTtOLk6tccV5LIFL).\
  \
