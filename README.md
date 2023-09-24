@@ -7,4 +7,4 @@ The repository hosting the entire project is currently privated.\
  \
 See the scripts in action in this [demo video](https://1drv.ms/v/s!AowguBSlb55mnTtOLk6tccV5LIFL).\
  \
-**If you are a hiring manager or recruiter and would like to see more of my contributions to this project, please email me at anvip2021@gmail.com.**
+**If you would like to see more of my contributions to this project, please email me at anvip2021@gmail.com.**
